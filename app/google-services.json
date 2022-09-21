@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381255440774",
+    "firebase_url": "https://sohbet-d4d32-default-rtdb.firebaseio.com",
+    "project_id": "sohbet-d4d32",
+    "storage_bucket": "sohbet-d4d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381255440774:android:2117a26556faa898c33407",
+        "android_client_info": {
+          "package_name": "com.example.sohbetlerim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381255440774-uhaqhmv7ktj3n9t4mqejgmmh7eschddh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYyIgIV2vegCD4jEqzaSK2Cp12qGCbx3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381255440774-uhaqhmv7ktj3n9t4mqejgmmh7eschddh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
